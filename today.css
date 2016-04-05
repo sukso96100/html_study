@@ -1,0 +1,10 @@
+@charset "UTF-8";
+#mainHeader{
+  padding: 12px 0;
+  background-color: rgb(209, 231, 81);
+}
+
+#mainHeader h1{
+  letter-spacing: 3px;
+  text-align: center;
+}
